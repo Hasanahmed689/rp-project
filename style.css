@@ -1,0 +1,91 @@
+body,p,span{
+    font-family: 'Roboto Slab', serif
+}
+h1,h2,h3,h4,h5,h6,a{
+    font-family: 'Rubik', sans-serif;
+}
+.grybg{
+    background: black;
+}
+img{
+    max-width: 100%;
+}
+/*.................................. Header-section.................................. */
+.header-section{
+    background-color: black;
+    opacity: .8;
+    max-height: none;
+}
+.header-section-logo a img{}
+.header-section-text{
+    float: right;
+}
+
+.header-section-text h1 {
+    font-size: 26px;
+    color:red;
+    margin-top: 65px;
+    font-weight: 400;
+}
+.header-section-text h3 {
+    color: red;
+    font-size: 11px;
+    font-weight: 400;
+}
+.image{}
+.image h5 {
+    font-size: 20px;
+    font-weight: 400;
+    color: red;
+    display: inline-block;
+    margin-top: 50px;
+}
+.image img {
+    padding-top: 8px;
+}
+.rupa-struggling{}
+.rupa-struggling h1 {
+	font-size: 30px;
+	font-weight: 400;
+	margin-top: 50px;
+	color: darkred;
+}
+.rupa-struggling h4 {
+	font-size: 32px;
+	font-weight: 300;
+	color: orangered;
+}
+.rupa-struggling span {
+	font-size: 23px;
+	font-weight: 400;
+	color: brown;
+}
+.image-1{}
+.image-1 h5 {
+    font-size: 20px;
+    font-weight: 400;
+    color: red;
+    display: inline-block;
+}
+.image-1 img{}
+.rupa-struggling-1 span {
+	font-size: 30px;
+	padding-top: 40px;
+	display: inline-block;
+	font-weight: 400;
+	color: brown;
+}
+.image-2{}
+.image-2 h5 {
+	font-size: 20px;
+	color: red;
+	font-weight: 400;
+}
+.image-2 img{}
+.rupa-struggling-2 span {
+	font-size: 30px;
+	display: inline-block;
+	padding-top: 24px;
+	color: brown;
+	font-weight: 400;
+}
